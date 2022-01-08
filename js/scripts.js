@@ -1,6 +1,6 @@
 /*!
 * Start Bootstrap - Agency v7.0.10 (https://startbootstrap.com/theme/agency)
-* Copyright 2013-2021 Start Bootstrap
+* Copyright 2013-2021  strap
 * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE)
 */
 //
